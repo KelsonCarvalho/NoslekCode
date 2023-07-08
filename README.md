@@ -7,7 +7,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/kelsoncarvalhoo/)
 
 
-![Kelson Carvalho GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelsonCarvalho&show_icons=true&theme=dracula)
+![Kelson Carvalho GitHub Stats](https://github-readme-stats.vercel.app/api?username=NoslekCode&show_icons=true&theme=dracula)
 
 ## Tecnologias que eu uso no meu dia
 
